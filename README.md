@@ -5,7 +5,7 @@ The user inputs their budget, the stores they want to select from (Woolworths an
 
 ### Installation
 
-git clone https://github.com/RyanTau/GroceryCompare.git
+git clone [https://github.com/RyanTau/GroceryCompare.git](https://github.com/DarylCh/Grocery-Price-Calculator)
 pip install -r requirements.txt
 
 Make sure your Chrome version is 103
@@ -17,5 +17,4 @@ If your version is not 103,
     1) Go to https://www.selenium.dev/downloads/
     2) Download the version that matches your Chrome browser
     3) replace the current selenium webdriver file with the one you downloaded
-
 
