@@ -5,7 +5,7 @@ The user inputs their budget, the stores they want to select from (Woolworths an
 
 ### Installation
 
-git clone [https://github.com/RyanTau/GroceryCompare.git](https://github.com/DarylCh/Grocery-Price-Calculator)
+git clone https://github.com/DarylCh/Grocery-Price-Calculator
 pip install -r requirements.txt
 
 Make sure your Chrome version is 103
